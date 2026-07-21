@@ -6,9 +6,9 @@
     "bootstrap": "ts-node src/bootstrap.ts"
   },
   "dependencies": {
-    "axios": "^1.13.5",
+    "axios": "^1.18.1",
     "caprover-api": "^0.0.9",
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.3.0"
   },
   "devDependencies": {
     "@types/js-yaml": "^4.0.9",
